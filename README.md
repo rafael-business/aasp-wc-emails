@@ -1,7 +1,7 @@
 # AASP WC E-mails
 Estende a funcionalidade de e-mail do WooCommerce.
 
-**Jonas Silva** 
+**Jonas Silva**<br />
 jonas.silva@aasp.org.br
 
 ## Solicitações
